@@ -1,4 +1,6 @@
 #  Candidate Review Dashboard
+LIVE Link:- candidate-dashboard-main.vercel.app
+
 
 ##  Overview
 
@@ -174,9 +176,6 @@ All core logic, UI structure, and implementation decisions were manually written
 ##  Conclusion
 
 This project focuses on **real-world product thinking**:
-LIVE Link:
-candidate-dashboard-main.vercel.app
-
 * Clear workflows
 * Meaningful interactions
 * Practical recruiter use-case
